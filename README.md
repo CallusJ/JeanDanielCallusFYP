@@ -2,8 +2,7 @@
 
 ## Github Directory
 
-	Altium
-
+### Alitum
     		|- adc_brd_raton_v0
 		|	|-  Project Outputs
 		|	|	|- Gerber Files
@@ -24,20 +23,21 @@
 			|	|- Gerber Files
 			|	|- PDFs *(Contains Schematics, PCB Prints and Assembly Drawings)*
 			| - Project (Contains Schematic Documents and PCB Project)
-	Vivado
+### Vivado
 		|- Hardware
 		|	|- pdf *(Contains block design pdf)*
 		|	|- src
 		|		|- constraints *(Contains .xdc files)*
 		|		|- hdl *(Contains .vhd files of custom IP cores)*
+		|	|- prebuilt 
+		|		|- bitstream
+		|		|- Elf File
 		|- Software 
 			|- device_0 
-			|	|- Debug *(Contains Debug Files)*
 			|	|- src *(Contains C files)*
 			|	|- bitstream.bit 
 			|	|-raton_wrapper.hdf
 			|- device_0 
-				|- Debug *(Contains Debug Files)*
 				|- src *(Contains C files)*
 				|- bitstream.bit 
 				|-raton_wrapper.hdf
