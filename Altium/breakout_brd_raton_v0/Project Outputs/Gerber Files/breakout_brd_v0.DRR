@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: breakout_brd_v0.PcbDoc   04/10/2020  19:43:46
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : breakout_brd_v0-RoundHoles.TXT
+ASCII SlotHoles File : breakout_brd_v0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             108       PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             48        PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Slot              12        PTH        0.00inch (0.00mm)
+T5      40mil (1.02mm)                                            Round             40        PTH        0.00inch (0.00mm)
+T6      124mil (3.15mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              228
+
+Total Processing Time (hh:mm:ss) : 00:00:00

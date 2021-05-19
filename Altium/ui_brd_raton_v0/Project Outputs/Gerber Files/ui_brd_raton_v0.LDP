@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\ui_brd_raton_v0\ui_brd_raton_v0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ui_brd_raton_v0-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ui_brd_raton_v0-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=ui_brd_raton_v0-rectholes.txt|DrillLayers=gtl,gbl

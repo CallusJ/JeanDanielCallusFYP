@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ui_brd_raton_v0.PcbDoc   04/10/2020  19:35:24
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ui_brd_raton_v0-RoundHoles.TXT
+ASCII SlotHoles File : ui_brd_raton_v0-SlotHoles.TXT
+ASCII RectHoles File : ui_brd_raton_v0-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             16        PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T3      16mil (0.4mm)                                             Round             571       PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T7      40mil (1.02mm)                                            Round             140       PTH        0.00inch (0.00mm)
+T8      50mil (1.27mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T9      75mil (1.9mm)                                             Rectangle         64        PTH        0.00inch (0.00mm)
+T10     124mil (3.15mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              833
+
+Total Processing Time (hh:mm:ss) : 00:00:00
