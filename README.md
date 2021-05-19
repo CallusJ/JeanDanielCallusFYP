@@ -2,7 +2,7 @@
 
 ## Github Directory
 
-Altium
+	Altium
     	|- adc_brd_raton_v0
 	|	|-  Project Outputs
 	|	|	|- Gerber Files
@@ -23,7 +23,7 @@ Altium
 		|	|- Gerber Files
 		|	|- PDFs *(Contains Schematics, PCB Prints and Assembly Drawings)*
 		| - Project (Contains Schematic Documents and PCB Project)
-Vivado
+	Vivado
 	|- Hardware
 	|	|- pdf *(Contains block design pdf)*
 	|	|- src
