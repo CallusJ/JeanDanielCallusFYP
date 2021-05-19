@@ -3,7 +3,7 @@
 ## Github Directory
 
 ### Alitum
-    		|- adc_brd_raton_v0
+		|- adc_brd_raton_v0
 		|	|-  Project Outputs
 		|	|	|- Gerber Files
 		|	|	|- PDFs *(Contains Schematics, PCB Prints and Assembly Drawings)*
